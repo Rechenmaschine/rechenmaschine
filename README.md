@@ -14,7 +14,7 @@
 - [Embedded firmware](https://github.com/aris-space/asteria-firmware)
 - [GNC algorithms](https://github.com/aris-space/asteria-gnc)
 
-I also have some [public repositories](https://github.com/Rechenmaschine) that might interest you.
+I also have some [public repositories](https://github.com/Rechenmaschine?tab=repositories) that might interest you.
 
 **I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms.
 
