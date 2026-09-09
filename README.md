@@ -27,6 +27,6 @@ I have several crates on [crates.io](https://crates.io/users/Rechenmaschine) and
 **Several projects currently in progress:**
 
 - Glasswing, a Rust framework for writing general game playing agents
-- Filterkit, a unified assortment of signal filters disguised behind a common abstraction
+- [filterkit](https://github.com/Rechenmaschine/filterkit), a unified assortment of signal filters disguised behind a common abstraction
 - CARMA, a simulator for distributed cacheing in data analytics
-- Scatter, this one I can only tell you about if you ask me.
+- Scatter, combining distributed computation and web assembly.
