@@ -22,7 +22,7 @@ I also have several [public repositories](https://github.com/Rechenmaschine?tab=
 
 **I do not enjoy:** Web development, FPGAs, graphics programming, or DevOps.
 
-I have several crates on [crates.io](https://crates.io/users/Rechenmaschine) and maintain a few microutilities such as [regex-strings](https://rechenmaschine.github.io/regex-strings/).
+I have [several crates on crates.io](https://crates.io/users/Rechenmaschine) and maintain a few microutilities such as [regex-strings](https://rechenmaschine.github.io/regex-strings/).
 
 **Several projects currently in progress:**
 
