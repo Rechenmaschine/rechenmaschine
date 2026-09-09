@@ -1,9 +1,7 @@
 <p align="center">
   Computer Science at ETH Zürich / Engineering at <a href="https://github.com/aris-space">ARIS</a><br>
-  See more at <a href="https://louisschell.de">louisschell.de</a>
+  <a href="https://louisschell.de">louisschell.de</a>
 </p>
-
-**Rust as a default**
 
 **At ARIS:** Systems engineering on [NICOLLIER](https://aris-space.ch/our-projects/nicollier/) and [HERMES](https://aris-space.ch/our-projects/hermes-2025/), coaching [ASTERIA](https://aris-space.ch/our-projects/asteria/). 
 
