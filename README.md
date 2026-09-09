@@ -18,7 +18,8 @@
 
 I also have several [public repositories](https://github.com/Rechenmaschine?tab=repositories) that might interest you.
 
-**I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms.
+**I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms. 
+I am also interested in state estimation, wireless communication and control systems.
 
 **I do not enjoy:** Web development, FPGAs, graphics programming, or DevOps.
 
