@@ -5,9 +5,12 @@
 
 **At ARIS:** Systems engineering on [NICOLLIER](https://aris-space.ch/our-projects/nicollier/) and [HERMES](https://aris-space.ch/our-projects/hermes-2025/), coaching [ASTERIA](https://aris-space.ch/our-projects/asteria/). 
 
-**Most difficult piece of code:**
+**I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms. 
+I am also interested in state estimation, wireless communication and control systems.
 
-- A new [synchronization primitive for `embassy-sync`](https://github.com/embassy-rs/embassy/blob/d7a24b82fa62a531fcb1f4dca94df3b0db7da4d4/embassy-sync/src/rpc_service.rs)
+**I do not enjoy:** Web development, FPGAs, graphics programming, or DevOps.
+
+Most difficult piece of code I have written, a [synchronization primitive for `embassy-sync`](https://github.com/embassy-rs/embassy/blob/d7a24b82fa62a531fcb1f4dca94df3b0db7da4d4/embassy-sync/src/rpc_service.rs)
 
 **Significant collaborative projects:**
 
@@ -15,11 +18,6 @@
 - [GNC algorithms](https://github.com/aris-space/asteria-gnc)
 
 I also have several [public repositories](https://github.com/Rechenmaschine?tab=repositories) that might interest you.
-
-**I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms. 
-I am also interested in state estimation, wireless communication and control systems.
-
-**I do not enjoy:** Web development, FPGAs, graphics programming, or DevOps.
 
 I have [several crates on crates.io](https://crates.io/users/Rechenmaschine) and maintain a few microutilities such as [regex-strings](https://rechenmaschine.github.io/regex-strings/).
 
