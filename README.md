@@ -8,7 +8,7 @@
 **I enjoy:** Distributed systems, embedded systems, robotics systems built to last, as well as weird and fancy algorithms. 
 I am also interested in state estimation, wireless communication and control systems.
 
-**I do not enjoy:** Web development, FPGAs, graphics programming, or DevOps.
+**I do not enjoy:** Web development or DevOps.
 
 Most difficult piece of code I have written, a [synchronization primitive for `embassy-sync`](https://github.com/embassy-rs/embassy/blob/d7a24b82fa62a531fcb1f4dca94df3b0db7da4d4/embassy-sync/src/rpc_service.rs)
 
@@ -26,4 +26,4 @@ I have [several crates on crates.io](https://crates.io/users/Rechenmaschine) and
 - Glasswing, a Rust framework for writing general game playing agents
 - [filterkit](https://github.com/Rechenmaschine/filterkit), a unified assortment of signal filters disguised behind a common abstraction
 - CARMA, a simulator for distributed cacheing in data analytics
-- Scatter, combining distributed computation and web assembly.
+- Scatter, distributed execution of rust iterators
