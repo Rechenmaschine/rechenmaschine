@@ -20,10 +20,3 @@ Most difficult piece of code I have written, a [synchronization primitive for `e
 I also have several [public repositories](https://github.com/Rechenmaschine?tab=repositories) that might interest you.
 
 I have [several crates on crates.io](https://crates.io/users/Rechenmaschine) and maintain a few microutilities such as [regex-strings](https://rechenmaschine.github.io/regex-strings/).
-
-**Several projects currently in progress:**
-
-- Glasswing, a Rust framework for writing general game playing agents
-- [filterkit](https://github.com/Rechenmaschine/filterkit), a unified assortment of signal filters disguised behind a common abstraction
-- CARMA, a simulator for distributed cacheing in data analytics
-- Scatter, distributed execution of rust iterators
